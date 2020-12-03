@@ -1,0 +1,21 @@
+#Menu untuk cluster :
+1. form pengisian quesioner dan upload hasil scane
+2. menu dari masing-masing instrumen yang masing-masing berisi ceklis dan upload data scane data yang terkait
+
+#Menu untuk operator :
+1. form posting berita dan galery
+2. menu evaluasi (Menampilkan hasil penilaian kinerja masing-masing cluster/scorenya, menampilkan grafik cluster, dan setup bobot penilaian instrumen)
+3. menu setup system yang terdiri dari :
+	a. page managemen user (Cluster)
+	b. page backup dan restore data
+
+#Menu untuk pimpinan :
+1. menu penilaian kinerja cluster (read only)
+2. menu report hasil penilaian dari masing-masing cluster
+
+#Menu untuk admin : 
+semua menu yang bisa di akses dari semua user ditambah menu management akses semua user
+
+
+nilai kinerja cluster didapat dari bobot penilaian instrumen yang di setup oleh operator
+semua akun user dibuat oleh admin dan operator hanya bisa menambah akun user untuk cluster
